@@ -1,0 +1,1794 @@
+[
+    {
+        "id": "b_box_cyclist_219241",
+        "min_x": 498,
+        "max_x": 515,
+        "min_y": 633,
+        "max_y": 668,
+        "label": "cyclist"
+    },
+    {
+        "id": "b_box_sidewalks_254170",
+        "min_x": 100,
+        "max_x": 226,
+        "min_y": 684,
+        "max_y": 696,
+        "label": "sidewalks"
+    },
+    {
+        "id": "b_box_walls_56145",
+        "min_x": 461,
+        "max_x": 608,
+        "min_y": 611,
+        "max_y": 654,
+        "label": "walls"
+    },
+    {
+        "id": "b_box_building_83132",
+        "min_x": 285,
+        "max_x": 316,
+        "min_y": 589,
+        "max_y": 595,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_83132",
+        "min_x": 267,
+        "max_x": 274,
+        "min_y": 590,
+        "max_y": 595,
+        "label": "building"
+    },
+    {
+        "id": "b_box_motorcycle_141241",
+        "min_x": 206,
+        "max_x": 228,
+        "min_y": 646,
+        "max_y": 675,
+        "label": "motorcycle"
+    },
+    {
+        "id": "b_box_building_64161",
+        "min_x": 1049,
+        "max_x": 1054,
+        "min_y": 628,
+        "max_y": 632,
+        "label": "building"
+    },
+    {
+        "id": "b_box_roads_87174",
+        "min_x": 0,
+        "max_x": 1819,
+        "min_y": 703,
+        "max_y": 1239,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_rail_track_245184",
+        "min_x": 464,
+        "max_x": 503,
+        "min_y": 545,
+        "max_y": 551,
+        "label": "rail_track"
+    },
+    {
+        "id": "b_box_rail_track_245184",
+        "min_x": 409,
+        "max_x": 414,
+        "min_y": 545,
+        "max_y": 553,
+        "label": "rail_track"
+    },
+    {
+        "id": "b_box_building_71164",
+        "min_x": 1314,
+        "max_x": 1339,
+        "min_y": 524,
+        "max_y": 538,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_71164",
+        "min_x": 1318,
+        "max_x": 1339,
+        "min_y": 443,
+        "max_y": 457,
+        "label": "building"
+    },
+    {
+        "id": "b_box_pole_51126",
+        "min_x": 1087,
+        "max_x": 1194,
+        "min_y": 430,
+        "max_y": 641,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_roadLines_26177",
+        "min_x": 255,
+        "max_x": 476,
+        "min_y": 665,
+        "max_y": 684,
+        "label": "roadLines"
+    },
+    {
+        "id": "b_box_cyclist_48242",
+        "min_x": 981,
+        "max_x": 993,
+        "min_y": 628,
+        "max_y": 661,
+        "label": "cyclist"
+    },
+    {
+        "id": "b_box_roads_55174",
+        "min_x": 194,
+        "max_x": 749,
+        "min_y": 656,
+        "max_y": 702,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_roads_55174",
+        "min_x": 127,
+        "max_x": 179,
+        "min_y": 672,
+        "max_y": 679,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_sky_70170",
+        "min_x": 0,
+        "max_x": 179,
+        "min_y": 131,
+        "max_y": 508,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_pedestrian_231242",
+        "min_x": 347,
+        "max_x": 364,
+        "min_y": 630,
+        "max_y": 680,
+        "label": "pedestrian"
+    },
+    {
+        "id": "b_box_roads_241174",
+        "min_x": 696,
+        "max_x": 827,
+        "min_y": 637,
+        "max_y": 641,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_building_131165",
+        "min_x": 1026,
+        "max_x": 1339,
+        "min_y": 527,
+        "max_y": 653,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_131165",
+        "min_x": 984,
+        "max_x": 1019,
+        "min_y": 537,
+        "max_y": 562,
+        "label": "building"
+    },
+    {
+        "id": "b_box_pole_84130",
+        "min_x": 778,
+        "max_x": 821,
+        "min_y": 521,
+        "max_y": 652,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_55132",
+        "min_x": 649,
+        "max_x": 676,
+        "min_y": 589,
+        "max_y": 643,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_vegetation_120145",
+        "min_x": 0,
+        "max_x": 123,
+        "min_y": 624,
+        "max_y": 677,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_pole_245184",
+        "min_x": 406,
+        "max_x": 418,
+        "min_y": 538,
+        "max_y": 550,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_dynamic_227240",
+        "min_x": 1076,
+        "max_x": 1129,
+        "min_y": 664,
+        "max_y": 709,
+        "label": "dynamic"
+    },
+    {
+        "id": "b_box_pole_63145",
+        "min_x": 561,
+        "max_x": 573,
+        "min_y": 598,
+        "max_y": 614,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_63145",
+        "min_x": 520,
+        "max_x": 526,
+        "min_y": 595,
+        "max_y": 614,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_63145",
+        "min_x": 1228,
+        "max_x": 1274,
+        "min_y": 569,
+        "max_y": 610,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_63145",
+        "min_x": 1114,
+        "max_x": 1137,
+        "min_y": 571,
+        "max_y": 610,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_63145",
+        "min_x": 154,
+        "max_x": 207,
+        "min_y": 566,
+        "max_y": 578,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_63145",
+        "min_x": 763,
+        "max_x": 792,
+        "min_y": 551,
+        "max_y": 632,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_63145",
+        "min_x": 637,
+        "max_x": 682,
+        "min_y": 551,
+        "max_y": 609,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_63145",
+        "min_x": 389,
+        "max_x": 431,
+        "min_y": 551,
+        "max_y": 573,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_63145",
+        "min_x": 1002,
+        "max_x": 1019,
+        "min_y": 563,
+        "max_y": 633,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_63145",
+        "min_x": 889,
+        "max_x": 901,
+        "min_y": 551,
+        "max_y": 633,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_roads_62174",
+        "min_x": 122,
+        "max_x": 287,
+        "min_y": 664,
+        "max_y": 675,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_roads_123242",
+        "min_x": 389,
+        "max_x": 458,
+        "min_y": 676,
+        "max_y": 700,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_vegetation_138184",
+        "min_x": 455,
+        "max_x": 595,
+        "min_y": 444,
+        "max_y": 614,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_138184",
+        "min_x": 587,
+        "max_x": 593,
+        "min_y": 519,
+        "max_y": 525,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_cyclist_123242",
+        "min_x": 390,
+        "max_x": 457,
+        "min_y": 670,
+        "max_y": 701,
+        "label": "cyclist"
+    },
+    {
+        "id": "b_box_sidewalks_251179",
+        "min_x": 993,
+        "max_x": 1054,
+        "min_y": 656,
+        "max_y": 662,
+        "label": "sidewalks"
+    },
+    {
+        "id": "b_box_sidewalks_241179",
+        "min_x": 0,
+        "max_x": 184,
+        "min_y": 697,
+        "max_y": 724,
+        "label": "sidewalks"
+    },
+    {
+        "id": "b_box_sidewalks_18171",
+        "min_x": 1124,
+        "max_x": 1819,
+        "min_y": 692,
+        "max_y": 973,
+        "label": "sidewalks"
+    },
+    {
+        "id": "b_box_pedestrian_91243",
+        "min_x": 563,
+        "max_x": 572,
+        "min_y": 628,
+        "max_y": 669,
+        "label": "pedestrian"
+    },
+    {
+        "id": "b_box_building_69164",
+        "min_x": 1028,
+        "max_x": 1071,
+        "min_y": 511,
+        "max_y": 536,
+        "label": "building"
+    },
+    {
+        "id": "b_box_car_64161",
+        "min_x": 1042,
+        "max_x": 1076,
+        "min_y": 626,
+        "max_y": 651,
+        "label": "car"
+    },
+    {
+        "id": "b_box_building_251166",
+        "min_x": 1153,
+        "max_x": 1243,
+        "min_y": 574,
+        "max_y": 611,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_251166",
+        "min_x": 1061,
+        "max_x": 1137,
+        "min_y": 574,
+        "max_y": 613,
+        "label": "building"
+    },
+    {
+        "id": "b_box_pole_49111",
+        "min_x": 1149,
+        "max_x": 1155,
+        "min_y": 583,
+        "max_y": 588,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_building_120244",
+        "min_x": 1222,
+        "max_x": 1230,
+        "min_y": 647,
+        "max_y": 651,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_67164",
+        "min_x": 154,
+        "max_x": 179,
+        "min_y": 576,
+        "max_y": 611,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_67164",
+        "min_x": 148,
+        "max_x": 199,
+        "min_y": 501,
+        "max_y": 544,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_14145",
+        "min_x": 656,
+        "max_x": 762,
+        "min_y": 606,
+        "max_y": 632,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_14145",
+        "min_x": 783,
+        "max_x": 1238,
+        "min_y": 606,
+        "max_y": 632,
+        "label": "building"
+    },
+    {
+        "id": "b_box_motorcycle_170241",
+        "min_x": 593,
+        "max_x": 626,
+        "min_y": 637,
+        "max_y": 656,
+        "label": "motorcycle"
+    },
+    {
+        "id": "b_box_building_181166",
+        "min_x": 698,
+        "max_x": 864,
+        "min_y": 492,
+        "max_y": 613,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_181166",
+        "min_x": 831,
+        "max_x": 864,
+        "min_y": 569,
+        "max_y": 614,
+        "label": "building"
+    },
+    {
+        "id": "b_box_car_78244",
+        "min_x": 1303,
+        "max_x": 1339,
+        "min_y": 636,
+        "max_y": 668,
+        "label": "car"
+    },
+    {
+        "id": "b_box_sidewalks_183179",
+        "min_x": 1168,
+        "max_x": 1819,
+        "min_y": 686,
+        "max_y": 875,
+        "label": "sidewalks"
+    },
+    {
+        "id": "b_box_rail_track_138184",
+        "min_x": 568,
+        "max_x": 601,
+        "min_y": 545,
+        "max_y": 568,
+        "label": "rail_track"
+    },
+    {
+        "id": "b_box_rail_track_138184",
+        "min_x": 435,
+        "max_x": 475,
+        "min_y": 545,
+        "max_y": 566,
+        "label": "rail_track"
+    },
+    {
+        "id": "b_box_rail_track_138184",
+        "min_x": 483,
+        "max_x": 490,
+        "min_y": 552,
+        "max_y": 562,
+        "label": "rail_track"
+    },
+    {
+        "id": "b_box_rail_track_138184",
+        "min_x": 523,
+        "max_x": 528,
+        "min_y": 545,
+        "max_y": 550,
+        "label": "rail_track"
+    },
+    {
+        "id": "b_box_pole_138184",
+        "min_x": 541,
+        "max_x": 569,
+        "min_y": 568,
+        "max_y": 600,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_138184",
+        "min_x": 520,
+        "max_x": 530,
+        "min_y": 572,
+        "max_y": 578,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_24110",
+        "min_x": 223,
+        "max_x": 245,
+        "min_y": 547,
+        "max_y": 553,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_vegetation_70170",
+        "min_x": 0,
+        "max_x": 166,
+        "min_y": 141,
+        "max_y": 566,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_70170",
+        "min_x": 137,
+        "max_x": 142,
+        "min_y": 293,
+        "max_y": 297,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_70170",
+        "min_x": 0,
+        "max_x": 29,
+        "min_y": 232,
+        "max_y": 276,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_70170",
+        "min_x": 61,
+        "max_x": 67,
+        "min_y": 236,
+        "max_y": 245,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_70170",
+        "min_x": 101,
+        "max_x": 107,
+        "min_y": 213,
+        "max_y": 219,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_70170",
+        "min_x": 31,
+        "max_x": 36,
+        "min_y": 174,
+        "max_y": 178,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_54145",
+        "min_x": 158,
+        "max_x": 465,
+        "min_y": 620,
+        "max_y": 656,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_bicycle_120244",
+        "min_x": 1178,
+        "max_x": 1183,
+        "min_y": 647,
+        "max_y": 652,
+        "label": "bicycle"
+    },
+    {
+        "id": "b_box_rail_track_110161",
+        "min_x": 140,
+        "max_x": 166,
+        "min_y": 545,
+        "max_y": 556,
+        "label": "rail_track"
+    },
+    {
+        "id": "b_box_building_241166",
+        "min_x": 872,
+        "max_x": 1053,
+        "min_y": 569,
+        "max_y": 617,
+        "label": "building"
+    },
+    {
+        "id": "b_box_unknown_10164",
+        "min_x": 195,
+        "max_x": 249,
+        "min_y": 680,
+        "max_y": 690,
+        "label": "unknown"
+    },
+    {
+        "id": "b_box_pole_80130",
+        "min_x": 824,
+        "max_x": 838,
+        "min_y": 546,
+        "max_y": 643,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_walls_125145",
+        "min_x": 151,
+        "max_x": 174,
+        "min_y": 610,
+        "max_y": 614,
+        "label": "walls"
+    },
+    {
+        "id": "b_box_building_239166",
+        "min_x": 865,
+        "max_x": 871,
+        "min_y": 514,
+        "max_y": 612,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_138184",
+        "min_x": 474,
+        "max_x": 603,
+        "min_y": 514,
+        "max_y": 602,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_138184",
+        "min_x": 434,
+        "max_x": 441,
+        "min_y": 540,
+        "max_y": 544,
+        "label": "building"
+    },
+    {
+        "id": "b_box_pole_161132",
+        "min_x": 42,
+        "max_x": 85,
+        "min_y": 547,
+        "max_y": 625,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_161132",
+        "min_x": 111,
+        "max_x": 129,
+        "min_y": 554,
+        "max_y": 577,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_unknown_122145",
+        "min_x": 0,
+        "max_x": 127,
+        "min_y": 656,
+        "max_y": 704,
+        "label": "unknown"
+    },
+    {
+        "id": "b_box_pole_48126",
+        "min_x": 294,
+        "max_x": 455,
+        "min_y": 482,
+        "max_y": 658,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_unknown_94163",
+        "min_x": 119,
+        "max_x": 160,
+        "min_y": 649,
+        "max_y": 654,
+        "label": "unknown"
+    },
+    {
+        "id": "b_box_building_70170",
+        "min_x": 0,
+        "max_x": 179,
+        "min_y": 491,
+        "max_y": 573,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_70170",
+        "min_x": 103,
+        "max_x": 135,
+        "min_y": 537,
+        "max_y": 551,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_247166",
+        "min_x": 1252,
+        "max_x": 1339,
+        "min_y": 539,
+        "max_y": 581,
+        "label": "building"
+    },
+    {
+        "id": "b_box_sidewalks_255179",
+        "min_x": 1089,
+        "max_x": 1819,
+        "min_y": 703,
+        "max_y": 1053,
+        "label": "sidewalks"
+    },
+    {
+        "id": "b_box_roadLines_111177",
+        "min_x": 720,
+        "max_x": 1055,
+        "min_y": 656,
+        "max_y": 702,
+        "label": "roadLines"
+    },
+    {
+        "id": "b_box_pole_60110",
+        "min_x": 1074,
+        "max_x": 1097,
+        "min_y": 521,
+        "max_y": 527,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_ground_1180",
+        "min_x": 749,
+        "max_x": 833,
+        "min_y": 648,
+        "max_y": 660,
+        "label": "ground"
+    },
+    {
+        "id": "b_box_walls_51145",
+        "min_x": 0,
+        "max_x": 179,
+        "min_y": 610,
+        "max_y": 620,
+        "label": "walls"
+    },
+    {
+        "id": "b_box_vegetation_55145",
+        "min_x": 473,
+        "max_x": 591,
+        "min_y": 620,
+        "max_y": 654,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_55145",
+        "min_x": 646,
+        "max_x": 663,
+        "min_y": 620,
+        "max_y": 641,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_55145",
+        "min_x": 594,
+        "max_x": 608,
+        "min_y": 620,
+        "max_y": 645,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_static_63110",
+        "min_x": 637,
+        "max_x": 662,
+        "min_y": 610,
+        "max_y": 646,
+        "label": "static"
+    },
+    {
+        "id": "b_box_pole_45126",
+        "min_x": 802,
+        "max_x": 1025,
+        "min_y": 500,
+        "max_y": 656,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_building_74184",
+        "min_x": 1307,
+        "max_x": 1819,
+        "min_y": 0,
+        "max_y": 787,
+        "label": "building"
+    },
+    {
+        "id": "b_box_roadLines_115177",
+        "min_x": 939,
+        "max_x": 944,
+        "min_y": 651,
+        "max_y": 655,
+        "label": "roadLines"
+    },
+    {
+        "id": "b_box_dynamic_11241",
+        "min_x": 378,
+        "max_x": 402,
+        "min_y": 646,
+        "max_y": 674,
+        "label": "dynamic"
+    },
+    {
+        "id": "b_box_static_73110",
+        "min_x": 605,
+        "max_x": 648,
+        "min_y": 609,
+        "max_y": 648,
+        "label": "static"
+    },
+    {
+        "id": "b_box_sidewalks_2171",
+        "min_x": 0,
+        "max_x": 161,
+        "min_y": 697,
+        "max_y": 713,
+        "label": "sidewalks"
+    },
+    {
+        "id": "b_box_traffic_light_54126",
+        "min_x": 367,
+        "max_x": 381,
+        "min_y": 460,
+        "max_y": 489,
+        "label": "traffic_light"
+    },
+    {
+        "id": "b_box_traffic_light_54126",
+        "min_x": 477,
+        "max_x": 490,
+        "min_y": 458,
+        "max_y": 488,
+        "label": "traffic_light"
+    },
+    {
+        "id": "b_box_traffic_light_54126",
+        "min_x": 606,
+        "max_x": 617,
+        "min_y": 456,
+        "max_y": 488,
+        "label": "traffic_light"
+    },
+    {
+        "id": "b_box_vegetation_110161",
+        "min_x": 81,
+        "max_x": 158,
+        "min_y": 534,
+        "max_y": 629,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_ground_179183",
+        "min_x": 397,
+        "max_x": 481,
+        "min_y": 658,
+        "max_y": 662,
+        "label": "ground"
+    },
+    {
+        "id": "b_box_ground_179183",
+        "min_x": 538,
+        "max_x": 564,
+        "min_y": 655,
+        "max_y": 659,
+        "label": "ground"
+    },
+    {
+        "id": "b_box_roadLines_165184",
+        "min_x": 500,
+        "max_x": 719,
+        "min_y": 792,
+        "max_y": 859,
+        "label": "roadLines"
+    },
+    {
+        "id": "b_box_building_235166",
+        "min_x": 585,
+        "max_x": 697,
+        "min_y": 534,
+        "max_y": 612,
+        "label": "building"
+    },
+    {
+        "id": "b_box_pole_22110",
+        "min_x": 416,
+        "max_x": 434,
+        "min_y": 551,
+        "max_y": 573,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_cyclist_92241",
+        "min_x": 887,
+        "max_x": 898,
+        "min_y": 630,
+        "max_y": 654,
+        "label": "cyclist"
+    },
+    {
+        "id": "b_box_roadLines_96177",
+        "min_x": 0,
+        "max_x": 123,
+        "min_y": 752,
+        "max_y": 772,
+        "label": "roadLines"
+    },
+    {
+        "id": "b_box_roadLines_96177",
+        "min_x": 326,
+        "max_x": 360,
+        "min_y": 712,
+        "max_y": 717,
+        "label": "roadLines"
+    },
+    {
+        "id": "b_box_pole_47111",
+        "min_x": 1196,
+        "max_x": 1208,
+        "min_y": 573,
+        "max_y": 577,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_static_231240",
+        "min_x": 838,
+        "max_x": 844,
+        "min_y": 647,
+        "max_y": 666,
+        "label": "static"
+    },
+    {
+        "id": "b_box_cyclist_5242",
+        "min_x": 1057,
+        "max_x": 1080,
+        "min_y": 635,
+        "max_y": 688,
+        "label": "cyclist"
+    },
+    {
+        "id": "b_box_cyclist_208242",
+        "min_x": 1238,
+        "max_x": 1250,
+        "min_y": 625,
+        "max_y": 651,
+        "label": "cyclist"
+    },
+    {
+        "id": "b_box_ground_209180",
+        "min_x": 641,
+        "max_x": 714,
+        "min_y": 641,
+        "max_y": 649,
+        "label": "ground"
+    },
+    {
+        "id": "b_box_building_243166",
+        "min_x": 1054,
+        "max_x": 1076,
+        "min_y": 570,
+        "max_y": 608,
+        "label": "building"
+    },
+    {
+        "id": "b_box_sidewalks_16171",
+        "min_x": 992,
+        "max_x": 1019,
+        "min_y": 649,
+        "max_y": 655,
+        "label": "sidewalks"
+    },
+    {
+        "id": "b_box_building_110161",
+        "min_x": 57,
+        "max_x": 151,
+        "min_y": 536,
+        "max_y": 606,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_56132",
+        "min_x": 594,
+        "max_x": 598,
+        "min_y": 596,
+        "max_y": 600,
+        "label": "building"
+    },
+    {
+        "id": "b_box_bicycle_123242",
+        "min_x": 392,
+        "max_x": 435,
+        "min_y": 682,
+        "max_y": 702,
+        "label": "bicycle"
+    },
+    {
+        "id": "b_box_building_67167",
+        "min_x": 477,
+        "max_x": 604,
+        "min_y": 574,
+        "max_y": 614,
+        "label": "building"
+    },
+    {
+        "id": "b_box_building_67167",
+        "min_x": 607,
+        "max_x": 641,
+        "min_y": 574,
+        "max_y": 603,
+        "label": "building"
+    },
+    {
+        "id": "b_box_dynamic_19241",
+        "min_x": 903,
+        "max_x": 925,
+        "min_y": 674,
+        "max_y": 739,
+        "label": "dynamic"
+    },
+    {
+        "id": "b_box_pole_19110",
+        "min_x": 771,
+        "max_x": 784,
+        "min_y": 549,
+        "max_y": 634,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_20110",
+        "min_x": 599,
+        "max_x": 606,
+        "min_y": 554,
+        "max_y": 592,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_83132",
+        "min_x": 265,
+        "max_x": 317,
+        "min_y": 568,
+        "max_y": 659,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_traffic_light_45126",
+        "min_x": 928,
+        "max_x": 932,
+        "min_y": 537,
+        "max_y": 553,
+        "label": "traffic_light"
+    },
+    {
+        "id": "b_box_traffic_light_45126",
+        "min_x": 872,
+        "max_x": 876,
+        "min_y": 537,
+        "max_y": 553,
+        "label": "traffic_light"
+    },
+    {
+        "id": "b_box_traffic_light_45126",
+        "min_x": 806,
+        "max_x": 811,
+        "min_y": 537,
+        "max_y": 553,
+        "label": "traffic_light"
+    },
+    {
+        "id": "b_box_pole_110161",
+        "min_x": 153,
+        "max_x": 158,
+        "min_y": 555,
+        "max_y": 561,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_car_120244",
+        "min_x": 1100,
+        "max_x": 1266,
+        "min_y": 641,
+        "max_y": 703,
+        "label": "car"
+    },
+    {
+        "id": "b_box_pole_45111",
+        "min_x": 1223,
+        "max_x": 1243,
+        "min_y": 571,
+        "max_y": 580,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_dynamic_59241",
+        "min_x": 101,
+        "max_x": 139,
+        "min_y": 700,
+        "max_y": 738,
+        "label": "dynamic"
+    },
+    {
+        "id": "b_box_motorcycle_219241",
+        "min_x": 481,
+        "max_x": 538,
+        "min_y": 644,
+        "max_y": 669,
+        "label": "motorcycle"
+    },
+    {
+        "id": "b_box_building_90115",
+        "min_x": 0,
+        "max_x": 158,
+        "min_y": 547,
+        "max_y": 614,
+        "label": "building"
+    },
+    {
+        "id": "b_box_roads_85174",
+        "min_x": 822,
+        "max_x": 981,
+        "min_y": 651,
+        "max_y": 655,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_roads_60174",
+        "min_x": 0,
+        "max_x": 542,
+        "min_y": 703,
+        "max_y": 826,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_building_203165",
+        "min_x": 651,
+        "max_x": 655,
+        "min_y": 605,
+        "max_y": 609,
+        "label": "building"
+    },
+    {
+        "id": "b_box_bicycle_48242",
+        "min_x": 985,
+        "max_x": 990,
+        "min_y": 647,
+        "max_y": 659,
+        "label": "bicycle"
+    },
+    {
+        "id": "b_box_roads_75175",
+        "min_x": 1231,
+        "max_x": 1238,
+        "min_y": 637,
+        "max_y": 643,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_cyclist_170241",
+        "min_x": 602,
+        "max_x": 618,
+        "min_y": 631,
+        "max_y": 651,
+        "label": "cyclist"
+    },
+    {
+        "id": "b_box_vegetation_161132",
+        "min_x": 114,
+        "max_x": 126,
+        "min_y": 573,
+        "max_y": 580,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_53145",
+        "min_x": 0,
+        "max_x": 165,
+        "min_y": 620,
+        "max_y": 650,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_traffic_light_51126",
+        "min_x": 1080,
+        "max_x": 1137,
+        "min_y": 499,
+        "max_y": 538,
+        "label": "traffic_light"
+    },
+    {
+        "id": "b_box_traffic_light_48126",
+        "min_x": 357,
+        "max_x": 405,
+        "min_y": 520,
+        "max_y": 545,
+        "label": "traffic_light"
+    },
+    {
+        "id": "b_box_traffic_light_48126",
+        "min_x": 302,
+        "max_x": 314,
+        "min_y": 511,
+        "max_y": 532,
+        "label": "traffic_light"
+    },
+    {
+        "id": "b_box_building_7185",
+        "min_x": 592,
+        "max_x": 656,
+        "min_y": 490,
+        "max_y": 533,
+        "label": "building"
+    },
+    {
+        "id": "b_box_ground_185179",
+        "min_x": 1251,
+        "max_x": 1302,
+        "min_y": 652,
+        "max_y": 657,
+        "label": "ground"
+    },
+    {
+        "id": "b_box_ground_185179",
+        "min_x": 1026,
+        "max_x": 1105,
+        "min_y": 648,
+        "max_y": 657,
+        "label": "ground"
+    },
+    {
+        "id": "b_box_motorcycle_92241",
+        "min_x": 890,
+        "max_x": 898,
+        "min_y": 644,
+        "max_y": 657,
+        "label": "motorcycle"
+    },
+    {
+        "id": "b_box_vegetation_245184",
+        "min_x": 298,
+        "max_x": 586,
+        "min_y": 357,
+        "max_y": 620,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_245184",
+        "min_x": 327,
+        "max_x": 341,
+        "min_y": 517,
+        "max_y": 521,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_245184",
+        "min_x": 326,
+        "max_x": 366,
+        "min_y": 460,
+        "max_y": 474,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_vegetation_245184",
+        "min_x": 353,
+        "max_x": 387,
+        "min_y": 363,
+        "max_y": 382,
+        "label": "vegetation"
+    },
+    {
+        "id": "b_box_roads_57174",
+        "min_x": 636,
+        "max_x": 771,
+        "min_y": 651,
+        "max_y": 655,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_building_245184",
+        "min_x": 460,
+        "max_x": 465,
+        "min_y": 540,
+        "max_y": 544,
+        "label": "building"
+    },
+    {
+        "id": "b_box_sidewalks_253179",
+        "min_x": 976,
+        "max_x": 1000,
+        "min_y": 649,
+        "max_y": 658,
+        "label": "sidewalks"
+    },
+    {
+        "id": "b_box_car_46161",
+        "min_x": 1149,
+        "max_x": 1165,
+        "min_y": 630,
+        "max_y": 648,
+        "label": "car"
+    },
+    {
+        "id": "b_box_static_211240",
+        "min_x": 375,
+        "max_x": 406,
+        "min_y": 736,
+        "max_y": 840,
+        "label": "static"
+    },
+    {
+        "id": "b_box_sky_138184",
+        "min_x": 548,
+        "max_x": 595,
+        "min_y": 437,
+        "max_y": 539,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_sky_138184",
+        "min_x": 510,
+        "max_x": 515,
+        "min_y": 533,
+        "max_y": 539,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_roads_138175",
+        "min_x": 849,
+        "max_x": 981,
+        "min_y": 637,
+        "max_y": 641,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_sky_245184",
+        "min_x": 294,
+        "max_x": 564,
+        "min_y": 352,
+        "max_y": 543,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_sky_245184",
+        "min_x": 524,
+        "max_x": 585,
+        "min_y": 457,
+        "max_y": 535,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_sky_245184",
+        "min_x": 493,
+        "max_x": 505,
+        "min_y": 507,
+        "max_y": 533,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_sky_245184",
+        "min_x": 414,
+        "max_x": 422,
+        "min_y": 393,
+        "max_y": 398,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_pole_70170",
+        "min_x": 36,
+        "max_x": 82,
+        "min_y": 536,
+        "max_y": 573,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_70170",
+        "min_x": 115,
+        "max_x": 120,
+        "min_y": 544,
+        "max_y": 554,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_53110",
+        "min_x": 661,
+        "max_x": 683,
+        "min_y": 538,
+        "max_y": 621,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_building_46161",
+        "min_x": 1154,
+        "max_x": 1160,
+        "min_y": 631,
+        "max_y": 635,
+        "label": "building"
+    },
+    {
+        "id": "b_box_unknown_92163",
+        "min_x": 126,
+        "max_x": 142,
+        "min_y": 689,
+        "max_y": 693,
+        "label": "unknown"
+    },
+    {
+        "id": "b_box_sky_133116",
+        "min_x": 0,
+        "max_x": 1339,
+        "min_y": 0,
+        "max_y": 544,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_sky_133116",
+        "min_x": 1089,
+        "max_x": 1183,
+        "min_y": 434,
+        "max_y": 530,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_sky_133116",
+        "min_x": 1149,
+        "max_x": 1183,
+        "min_y": 503,
+        "max_y": 531,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_sky_133116",
+        "min_x": 195,
+        "max_x": 384,
+        "min_y": 386,
+        "max_y": 544,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_sky_133116",
+        "min_x": 529,
+        "max_x": 693,
+        "min_y": 378,
+        "max_y": 513,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_sky_133116",
+        "min_x": 12,
+        "max_x": 17,
+        "min_y": 280,
+        "max_y": 286,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_sky_133116",
+        "min_x": 32,
+        "max_x": 56,
+        "min_y": 230,
+        "max_y": 243,
+        "label": "sky"
+    },
+    {
+        "id": "b_box_cyclist_141241",
+        "min_x": 207,
+        "max_x": 227,
+        "min_y": 634,
+        "max_y": 673,
+        "label": "cyclist"
+    },
+    {
+        "id": "b_box_bicycle_208242",
+        "min_x": 1234,
+        "max_x": 1260,
+        "min_y": 643,
+        "max_y": 657,
+        "label": "bicycle"
+    },
+    {
+        "id": "b_box_cyclist_55174",
+        "min_x": 432,
+        "max_x": 457,
+        "min_y": 671,
+        "max_y": 680,
+        "label": "cyclist"
+    },
+    {
+        "id": "b_box_building_201165",
+        "min_x": 578,
+        "max_x": 629,
+        "min_y": 604,
+        "max_y": 615,
+        "label": "building"
+    },
+    {
+        "id": "b_box_roads_83174",
+        "min_x": 642,
+        "max_x": 1076,
+        "min_y": 656,
+        "max_y": 702,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_roads_83174",
+        "min_x": 1035,
+        "max_x": 1106,
+        "min_y": 663,
+        "max_y": 696,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_unknown_177179",
+        "min_x": 646,
+        "max_x": 701,
+        "min_y": 641,
+        "max_y": 646,
+        "label": "unknown"
+    },
+    {
+        "id": "b_box_roads_107175",
+        "min_x": 844,
+        "max_x": 983,
+        "min_y": 644,
+        "max_y": 649,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_ground_177183",
+        "min_x": 170,
+        "max_x": 274,
+        "min_y": 682,
+        "max_y": 702,
+        "label": "ground"
+    },
+    {
+        "id": "b_box_building_237166",
+        "min_x": 429,
+        "max_x": 434,
+        "min_y": 540,
+        "max_y": 544,
+        "label": "building"
+    },
+    {
+        "id": "b_box_pole_56132",
+        "min_x": 573,
+        "max_x": 608,
+        "min_y": 580,
+        "max_y": 650,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_ground_53182",
+        "min_x": 805,
+        "max_x": 850,
+        "min_y": 642,
+        "max_y": 649,
+        "label": "ground"
+    },
+    {
+        "id": "b_box_building_161132",
+        "min_x": 39,
+        "max_x": 75,
+        "min_y": 570,
+        "max_y": 580,
+        "label": "building"
+    },
+    {
+        "id": "b_box_walls_188145",
+        "min_x": 665,
+        "max_x": 689,
+        "min_y": 616,
+        "max_y": 634,
+        "label": "walls"
+    },
+    {
+        "id": "b_box_pole_16110",
+        "min_x": 956,
+        "max_x": 963,
+        "min_y": 549,
+        "max_y": 634,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_building_153116",
+        "min_x": 195,
+        "max_x": 480,
+        "min_y": 544,
+        "max_y": 621,
+        "label": "building"
+    },
+    {
+        "id": "b_box_roads_89174",
+        "min_x": 1264,
+        "max_x": 1339,
+        "min_y": 663,
+        "max_y": 680,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_pole_194109",
+        "min_x": 1142,
+        "max_x": 1192,
+        "min_y": 425,
+        "max_y": 652,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_roadLines_173184",
+        "min_x": 859,
+        "max_x": 1061,
+        "min_y": 792,
+        "max_y": 859,
+        "label": "roadLines"
+    },
+    {
+        "id": "b_box_pole_41111",
+        "min_x": 1090,
+        "max_x": 1108,
+        "min_y": 568,
+        "max_y": 579,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_pole_118130",
+        "min_x": 519,
+        "max_x": 745,
+        "min_y": 373,
+        "max_y": 701,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_roadLines_117177",
+        "min_x": 0,
+        "max_x": 745,
+        "min_y": 703,
+        "max_y": 1024,
+        "label": "roadLines"
+    },
+    {
+        "id": "b_box_roadLines_117177",
+        "min_x": 804,
+        "max_x": 825,
+        "min_y": 752,
+        "max_y": 773,
+        "label": "roadLines"
+    },
+    {
+        "id": "b_box_roadLines_117177",
+        "min_x": 843,
+        "max_x": 853,
+        "min_y": 709,
+        "max_y": 717,
+        "label": "roadLines"
+    },
+    {
+        "id": "b_box_roadLines_117177",
+        "min_x": 987,
+        "max_x": 1518,
+        "min_y": 703,
+        "max_y": 1239,
+        "label": "roadLines"
+    },
+    {
+        "id": "b_box_pole_54126",
+        "min_x": 180,
+        "max_x": 623,
+        "min_y": 380,
+        "max_y": 692,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_sidewalks_31171",
+        "min_x": 1267,
+        "max_x": 1339,
+        "min_y": 681,
+        "max_y": 685,
+        "label": "sidewalks"
+    },
+    {
+        "id": "b_box_bicycle_5242",
+        "min_x": 1034,
+        "max_x": 1079,
+        "min_y": 659,
+        "max_y": 698,
+        "label": "bicycle"
+    },
+    {
+        "id": "b_box_roads_198174",
+        "min_x": 654,
+        "max_x": 798,
+        "min_y": 644,
+        "max_y": 649,
+        "label": "roads"
+    },
+    {
+        "id": "b_box_ground_5180",
+        "min_x": 0,
+        "max_x": 720,
+        "min_y": 686,
+        "max_y": 984,
+        "label": "ground"
+    },
+    {
+        "id": "b_box_pole_78130",
+        "min_x": 842,
+        "max_x": 851,
+        "min_y": 563,
+        "max_y": 639,
+        "label": "pole"
+    },
+    {
+        "id": "b_box_rail_track_30145",
+        "min_x": 588,
+        "max_x": 1039,
+        "min_y": 545,
+        "max_y": 568,
+        "label": "rail_track"
+    },
+    {
+        "id": "b_box_rail_track_30145",
+        "min_x": 158,
+        "max_x": 440,
+        "min_y": 545,
+        "max_y": 569,
+        "label": "rail_track"
+    },
+    {
+        "id": "b_box_ground_120244",
+        "min_x": 1194,
+        "max_x": 1238,
+        "min_y": 647,
+        "max_y": 657,
+        "label": "ground"
+    },
+    {
+        "id": "b_box_ground_120244",
+        "min_x": 1154,
+        "max_x": 1179,
+        "min_y": 650,
+        "max_y": 656,
+        "label": "ground"
+    },
+    {
+        "id": "b_box_dynamic_51241",
+        "min_x": 1102,
+        "max_x": 1146,
+        "min_y": 628,
+        "max_y": 663,
+        "label": "dynamic"
+    },
+    {
+        "id": "b_box_pole_51110",
+        "min_x": 151,
+        "max_x": 179,
+        "min_y": 532,
+        "max_y": 547,
+        "label": "pole"
+    }
+]

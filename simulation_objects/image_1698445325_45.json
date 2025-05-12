@@ -1,0 +1,21 @@
+{
+    "camera_transform": {
+        "location": {
+            "x": 62.31301498413086,
+            "y": 24.85854721069336,
+            "z": 2.1803367137908936
+        },
+        "rotation": {
+            "pitch": -0.0005805660621263087,
+            "yaw": 0.15918266773223877,
+            "roll": 0.0026298474986106157
+        }
+    },
+    "camera_parameters": {
+        "image_size_x": 1820,
+        "image_size_y": 1240,
+        "fov": 90,
+        "sensor_tick": 0.1
+    },
+    "filtered_objects": {}
+}
